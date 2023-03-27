@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29d75847-c142-46a6-87ea-594ec81379e6": {
+      "ProjectGuid": "29d75847-c142-46a6-87ea-594ec81379e6",
+      "DisplayName": "MedicalClinicSystem.EF",
+      "ColorIndex": 0
+    },
+    "f2e969c7-c8e8-4d9e-b923-99a4df88010c": {
+      "ProjectGuid": "f2e969c7-c8e8-4d9e-b923-99a4df88010c",
+      "DisplayName": "MedicalClinicSystem.API",
+      "ColorIndex": 1
+    },
+    "0eb285be-976f-4804-b736-f080b8972922": {
+      "ProjectGuid": "0eb285be-976f-4804-b736-f080b8972922",
+      "DisplayName": "MedicalClinicSystem.UI",
+      "ColorIndex": 2
+    },
+    "42e52bbe-d2d0-4430-adf4-d58788373ff4": {
+      "ProjectGuid": "42e52bbe-d2d0-4430-adf4-d58788373ff4",
+      "DisplayName": "MedicalClinicSystem.Core",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
